@@ -3,7 +3,7 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19%20Thousand%20lines%20of%20code-blue)
 
@@ -84,5 +84,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/deloz/deloz/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/10/2022 07:13:52 UTC
+ Last Updated on 16/10/2022 07:42:43 UTC
 <!--END_SECTION:waka-->

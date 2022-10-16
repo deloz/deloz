@@ -3,13 +3,13 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 21 Contributions in the Year 2022
+> 🏆 25 Contributions in the Year 2022
  > 
 > 📦 4.9 kB Used in GitHub's Storage 
  > 
@@ -17,7 +17,7 @@
  > 
 > 📜 50 Public Repositories 
  > 
-> 🔑 0 Private Repositories  
+> 🔑 4 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -70,11 +70,11 @@ Linux                    5 hrs 22 mins       ████░░░░░░░�
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      10 repos            ███████████░░░░░░░░░░░░░░   45.45% 
-Go                       6 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+PHP                      11 repos            ██████████░░░░░░░░░░░░░░░   42.31% 
+Go                       8 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.23% 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
 
 ```
 
@@ -84,5 +84,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/deloz/deloz/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/10/2022 23:58:48 UTC
+ Last Updated on 16/10/2022 02:56:26 UTC
 <!--END_SECTION:waka-->

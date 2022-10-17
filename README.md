@@ -3,15 +3,15 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2040%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,308 Contributions in the Year 2022
+> 🏆 1,318 Contributions in the Year 2022
  > 
-> 📦 128.8 kB Used in GitHub's Storage 
+> 📦 164.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -23,20 +23,20 @@
 
 ```text
 🌞 Morning    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.11% 
-🌆 Daytime    148 commits    ████████░░░░░░░░░░░░░░░░░   34.66% 
-🌃 Evening    155 commits    █████████░░░░░░░░░░░░░░░░   36.3% 
-🌙 Night      68 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.93%
+🌆 Daytime    155 commits    █████████░░░░░░░░░░░░░░░░   36.3% 
+🌃 Evening    151 commits    ████████░░░░░░░░░░░░░░░░░   35.36% 
+🌙 Night      65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.22%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       82 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.2% 
+Monday       80 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.74% 
 Tuesday      118 commits    ███████░░░░░░░░░░░░░░░░░░   27.63% 
 Wednesday    51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
 Thursday     43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
-Friday       51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
-Saturday     46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.77% 
+Friday       48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.24% 
+Saturday     51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
 Sunday       36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.43%
 
 ```
@@ -84,5 +84,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/deloz/deloz/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/10/2022 03:14:46 UTC
+ Last Updated on 17/10/2022 05:12:16 UTC
 <!--END_SECTION:waka-->

@@ -3,7 +3,7 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11%20Thousand%20lines%20of%20code-blue)
 
@@ -11,7 +11,7 @@
 
 > 🏆 1,339 Contributions in the Year 2022
  > 
-> 📦 164.3 kB Used in GitHub's Storage 
+> 📦 164.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -84,5 +84,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/deloz/deloz/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/10/2022 15:48:01 UTC
+ Last Updated on 19/10/2022 16:17:02 UTC
 <!--END_SECTION:waka-->

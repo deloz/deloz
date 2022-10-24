@@ -3,15 +3,15 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2024%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,516 Contributions in the Year 2022
+> 🏆 1,523 Contributions in the Year 2022
  > 
-> 📦 166.2 kB Used in GitHub's Storage 
+> 📦 166.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -23,17 +23,17 @@
 
 ```text
 🌞 Morning    78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
-🌆 Daytime    189 commits    ████████░░░░░░░░░░░░░░░░░   35.26% 
-🌃 Evening    187 commits    ████████░░░░░░░░░░░░░░░░░   34.89% 
-🌙 Night      82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.3%
+🌆 Daytime    186 commits    ████████░░░░░░░░░░░░░░░░░   34.7% 
+🌃 Evening    191 commits    █████████░░░░░░░░░░░░░░░░   35.63% 
+🌙 Night      81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.11%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       125 commits    █████░░░░░░░░░░░░░░░░░░░░   23.32% 
+Monday       129 commits    ██████░░░░░░░░░░░░░░░░░░░   24.07% 
 Tuesday      95 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.72% 
-Wednesday    73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.62% 
+Wednesday    69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.87% 
 Thursday     56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
 Friday       53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.89% 
 Saturday     65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.13% 
@@ -84,5 +84,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/deloz/deloz/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/10/2022 14:52:51 UTC
+ Last Updated on 24/10/2022 15:51:36 UTC
 <!--END_SECTION:waka-->

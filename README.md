@@ -3,15 +3,15 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2017%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,527 Contributions in the Year 2022
+> 🏆 1,529 Contributions in the Year 2022
  > 
-> 📦 166.3 kB Used in GitHub's Storage 
+> 📦 166.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -23,8 +23,8 @@
 
 ```text
 🌞 Morning    81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
-🌆 Daytime    186 commits    ████████░░░░░░░░░░░░░░░░░   34.51% 
-🌃 Evening    190 commits    ████████░░░░░░░░░░░░░░░░░   35.25% 
+🌆 Daytime    188 commits    ████████░░░░░░░░░░░░░░░░░   34.88% 
+🌃 Evening    188 commits    ████████░░░░░░░░░░░░░░░░░   34.88% 
 🌙 Night      82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.21%
 
 ```
@@ -84,5 +84,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/deloz/deloz/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/10/2022 03:40:32 UTC
+ Last Updated on 25/10/2022 05:24:24 UTC
 <!--END_SECTION:waka-->

@@ -3,7 +3,7 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24%20Thousand%20lines%20of%20code-blue)
 
@@ -32,9 +32,9 @@
 
 ```text
 Monday       129 commits    ██████░░░░░░░░░░░░░░░░░░░   23.93% 
-Tuesday      97 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.0% 
-Wednesday    70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
-Thursday     56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.39% 
+Tuesday      96 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.81% 
+Wednesday    69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.8% 
+Thursday     58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.76% 
 Friday       53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.83% 
 Saturday     65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.06% 
 Sunday       69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.8%
@@ -84,5 +84,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/deloz/deloz/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/10/2022 12:38:51 UTC
+ Last Updated on 27/10/2022 13:36:51 UTC
 <!--END_SECTION:waka-->

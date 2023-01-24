@@ -48,17 +48,13 @@ Sunday       257 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-PHP                      47 mins             ███████████░░░░░░░░░░░░░░   46.75% 
-Blade Template           32 mins             ████████░░░░░░░░░░░░░░░░░   32.12% 
-sh                       20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.25% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 1 hr 20 mins        ████████████████████░░░░░   79.75% 
-Zsh                      20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.25%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 41 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -79,5 +75,5 @@ CSS                      6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/deloz/deloz/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/01/2023 16:10:28 UTC
+ Last Updated on 24/01/2023 17:14:42 UTC
 <!--END_SECTION:waka-->

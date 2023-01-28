@@ -3,7 +3,7 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-725%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-732%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13%20Million%20lines%20of%20code-blue)
 
@@ -48,13 +48,21 @@ Sunday       257 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      4 hrs 44 mins       ████████████████░░░░░░░░░   66.0% 
+sh                       2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.4% 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72% 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96% 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 5 hrs               █████████████████░░░░░░░░   69.84% 
+Zsh                      2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.4% 
+Notepad++                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12% 
+GoLand                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    7 hrs 6 mins        ████████████████████████░   98.88% 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
 
 ```
 
@@ -75,5 +83,5 @@ CSS                      6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/deloz/deloz/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2023 16:24:43 UTC
+ Last Updated on 28/01/2023 17:29:14 UTC
 <!--END_SECTION:waka-->

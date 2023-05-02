@@ -1,5 +1,5 @@
-# **Hi there, I'm Deloz (*´ー｀*), and this is my profile readme.**
-<!--  [![Profile views](https://gpvc.arturio.dev/dank-del)](https://github.com/dank-del) -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->

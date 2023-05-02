@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-green-animate.svg)
+# **Hi there, I'm Deloz (*´ー｀*), and this is my profile readme.**
 
 ## **What languages you use and how much do you code?**
 

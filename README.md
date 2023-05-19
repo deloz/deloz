@@ -3,7 +3,7 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C479%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C479%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.7%20million%20lines%20of%20code-blue)
 
@@ -80,5 +80,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2023 02:30:48 UTC
+ Last Updated on 19/05/2023 02:47:45 UTC
 <!--END_SECTION:waka-->

@@ -3,7 +3,7 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C346%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C356%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.9%20million%20lines%20of%20code-blue)
 
@@ -46,17 +46,17 @@ Sunday                   2054 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    57 hrs 6 mins       █████████████████████████   99.32 % 
-Python                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Other                    58 hrs 26 mins      █████████████████████████   99.72 % 
+Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Chrome                   57 hrs 6 mins       █████████████████████████   99.32 % 
-PyCharm                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Chrome                   58 hrs 26 mins      █████████████████████████   99.72 % 
+PyCharm                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 Notepad++                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  57 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  58 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -76,5 +76,5 @@ TypeScript               6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2023 16:10:53 UTC
+ Last Updated on 10/09/2023 17:07:10 UTC
 <!--END_SECTION:waka-->

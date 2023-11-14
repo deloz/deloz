@@ -3,15 +3,13 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C785%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C793%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.0 MB Used in GitHub's Storage 
- > 
-> 🏆 5,473 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -46,13 +44,13 @@ Sunday                   1985 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    54 hrs 53 mins      █████████████████████████   100.00 % 
+Other                    53 hrs 47 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   54 hrs 53 mins      █████████████████████████   100.00 % 
+Chrome                   53 hrs 47 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  54 hrs 53 mins      █████████████████████████   100.00 % 
+Windows                  53 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -72,5 +70,5 @@ TypeScript               6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 14/11/2023 16:08:22 UTC
+ Last Updated on 14/11/2023 17:07:14 UTC
 <!--END_SECTION:waka-->

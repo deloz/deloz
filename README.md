@@ -11,8 +11,6 @@
 
 > 📦 3.1 MB Used in GitHub's Storage 
  > 
-> 🏆 3,370 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 34 Public Repositories 
@@ -75,5 +73,5 @@ Vue                      4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2024 12:07:21 UTC
+ Last Updated on 21/05/2024 13:09:40 UTC
 <!--END_SECTION:waka-->

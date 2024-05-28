@@ -11,6 +11,8 @@
 
 > 📦 3.1 MB Used in GitHub's Storage 
  > 
+> 🏆 3,433 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 35 Public Repositories 
@@ -70,5 +72,5 @@ Shell                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2024 21:09:02 UTC
+ Last Updated on 28/05/2024 22:07:22 UTC
 <!--END_SECTION:waka-->

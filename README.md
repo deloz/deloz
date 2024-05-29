@@ -3,7 +3,7 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C085%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C076%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.9%20million%20lines%20of%20code-blue)
 
@@ -11,7 +11,7 @@
 
 > 📦 3.1 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 3,442 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -58,10 +58,10 @@ Windows                  39 hrs 1 min        ███████████�
 **I Mostly Code in PHP** 
 
 ```text
-Go                       45 repos            █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-JavaScript               35 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Python                   10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Vue                      4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Go                       45 repos            █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+JavaScript               35 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Python                   10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Vue                      4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 Shell                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 
@@ -72,5 +72,5 @@ Shell                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2024 15:08:25 UTC
+ Last Updated on 29/05/2024 16:09:33 UTC
 <!--END_SECTION:waka-->

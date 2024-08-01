@@ -3,7 +3,7 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C500%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C502%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40.5%20million%20lines%20of%20code-blue)
 
@@ -46,13 +46,13 @@ Sunday                   2872 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    15 hrs              █████████████████████████   100.00 % 
+Other                    10 hrs 54 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   15 hrs              █████████████████████████   100.00 % 
+Chrome                   10 hrs 54 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs              █████████████████████████   100.00 % 
+Windows                  10 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -72,5 +72,5 @@ Vue                      5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2024 16:18:59 UTC
+ Last Updated on 01/08/2024 17:17:34 UTC
 <!--END_SECTION:waka-->

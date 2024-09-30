@@ -3,15 +3,13 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C757%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C757%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.7 MB Used in GitHub's Storage 
- > 
-> 🏆 4,529 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -23,8 +21,8 @@
 
 ```text
 🌞 Morning                7869 commits        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-🌆 Daytime                17045 commits       ████████████░░░░░░░░░░░░░   47.96 % 
-🌃 Evening                8836 commits        ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+🌆 Daytime                17044 commits       ████████████░░░░░░░░░░░░░   47.96 % 
+🌃 Evening                8837 commits        ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
 🌙 Night                  1790 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -72,5 +70,5 @@ Vue                      5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2024 10:20:07 UTC
+ Last Updated on 30/09/2024 11:15:35 UTC
 <!--END_SECTION:waka-->

@@ -11,6 +11,8 @@
 
 > 📦 3.7 MB Used in GitHub's Storage 
  > 
+> 🏆 4,539 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 36 Public Repositories 
@@ -44,13 +46,13 @@ Sunday                   2857 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    19 hrs 20 mins      █████████████████████████   100.00 % 
+Other                    9 hrs 44 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   19 hrs 20 mins      █████████████████████████   100.00 % 
+Chrome                   9 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  19 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -70,5 +72,5 @@ Vue                      5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2024 16:15:54 UTC
+ Last Updated on 06/10/2024 17:14:10 UTC
 <!--END_SECTION:waka-->

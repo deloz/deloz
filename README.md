@@ -3,7 +3,7 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C805%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C815%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.0%20million%20lines%20of%20code-blue)
 
@@ -11,7 +11,7 @@
 
 > 📦 3.7 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 4,601 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -46,16 +46,18 @@ Sunday                   3114 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    42 hrs 50 mins      ████████████████████████░   95.57 % 
-Python                   1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-Pip Requirements         42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Other                    50 hrs 9 mins       ███████████████████████░░   92.41 % 
+Python                   2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Pip Requirements         42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Jupyter Notebook         29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-Chrome                   44 hrs 49 mins      █████████████████████████   100.00 % 
+Chrome                   54 hrs 16 mins      █████████████████████████   100.00 % 
 Notepad++                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  44 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  54 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -75,5 +77,5 @@ Vue                      5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2024 16:15:14 UTC
+ Last Updated on 13/10/2024 17:15:01 UTC
 <!--END_SECTION:waka-->

@@ -3,7 +3,7 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C913%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C923%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.0%20million%20lines%20of%20code-blue)
 
@@ -11,7 +11,7 @@
 
 > 📦 3.7 MB Used in GitHub's Storage 
  > 
-> 🏆 4,655 Contributions in the Year 2024
+> 🏆 4,656 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -46,17 +46,17 @@ Sunday                   3113 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    48 hrs 22 mins      ██████████████████████░░░   86.67 % 
-Python                   4 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Markdown                 1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Vue                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Text                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Other                    50 hrs 24 mins      ██████████████████████░░░   87.54 % 
+Python                   4 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Markdown                 1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Vue                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Text                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-Chrome                   55 hrs 48 mins      █████████████████████████   100.00 % 
+Chrome                   57 hrs 34 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  55 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  57 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -76,5 +76,5 @@ Vue                      6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2024 16:15:29 UTC
+ Last Updated on 28/10/2024 17:13:20 UTC
 <!--END_SECTION:waka-->

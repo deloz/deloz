@@ -3,15 +3,13 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C055%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C055%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.8 MB Used in GitHub's Storage 
- > 
-> 🏆 4,991 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -23,8 +21,8 @@
 
 ```text
 🌞 Morning                8979 commits        █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-🌆 Daytime                19799 commits       ████████████░░░░░░░░░░░░░   48.22 % 
-🌃 Evening                10207 commits       ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+🌆 Daytime                19798 commits       ████████████░░░░░░░░░░░░░   48.21 % 
+🌃 Evening                10210 commits       ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
 🌙 Night                  2075 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -35,7 +33,7 @@ Tuesday                  6979 commits        ████░░░░░░░�
 Wednesday                6587 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
 Thursday                 6172 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
 Friday                   6606 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Saturday                 4833 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Saturday                 4835 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
 Sunday                   3330 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 ```
 
@@ -81,5 +79,5 @@ TypeScript               5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2024 10:14:51 UTC
+ Last Updated on 16/11/2024 11:12:05 UTC
 <!--END_SECTION:waka-->

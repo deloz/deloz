@@ -3,15 +3,13 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C317%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C317%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.8 MB Used in GitHub's Storage 
- > 
-> 🏆 5,350 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -81,5 +79,5 @@ TypeScript               5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2024 12:14:33 UTC
+ Last Updated on 20/12/2024 13:14:11 UTC
 <!--END_SECTION:waka-->

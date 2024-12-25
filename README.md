@@ -3,13 +3,15 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C349%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C350%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.8 MB Used in GitHub's Storage 
+ > 
+> 🏆 5,480 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -20,17 +22,17 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8245 commits        █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+🌞 Morning                8251 commits        █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
 🌆 Daytime                18168 commits       ████████████░░░░░░░░░░░░░   47.88 % 
-🌃 Evening                9613 commits        ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+🌃 Evening                9613 commits        ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
 🌙 Night                  1916 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   5919 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Tuesday                  6547 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Wednesday                6007 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Tuesday                  6547 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Wednesday                6013 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
 Thursday                 5710 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 Friday                   6140 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
 Saturday                 4588 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
@@ -79,5 +81,5 @@ TypeScript               5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 25/12/2024 03:15:52 UTC
+ Last Updated on 25/12/2024 04:11:17 UTC
 <!--END_SECTION:waka-->

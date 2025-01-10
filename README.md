@@ -11,8 +11,6 @@
 
 > 📦 3.8 MB Used in GitHub's Storage 
  > 
-> 🏆 32 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -80,5 +78,5 @@ TypeScript               5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 10/01/2025 17:12:58 UTC
+ Last Updated on 10/01/2025 18:17:51 UTC
 <!--END_SECTION:waka-->

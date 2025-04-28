@@ -3,13 +3,15 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C247%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C249%20hrs%2018%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.9 MB Used in GitHub's Storage 
+ > 
+> 🏆 995 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -20,21 +22,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                11682 commits       █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-🌆 Daytime                27468 commits       ████████████░░░░░░░░░░░░░   48.20 % 
+🌞 Morning                11683 commits       █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+🌆 Daytime                27471 commits       ████████████░░░░░░░░░░░░░   48.20 % 
 🌃 Evening                14778 commits       ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
 🌙 Night                  3061 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   9057 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Monday                   9060 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
 Tuesday                  9626 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
 Wednesday                9187 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
 Thursday                 8781 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
 Friday                   9071 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
 Saturday                 6680 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Sunday                   4587 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Sunday                   4588 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 ```
 
 
@@ -79,5 +81,5 @@ Vue                      7 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2025 06:17:49 UTC
+ Last Updated on 28/04/2025 08:29:39 UTC
 <!--END_SECTION:waka-->

@@ -3,7 +3,7 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C360%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C360%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.1%20million%20lines%20of%20code-blue)
 
@@ -15,7 +15,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 39 Public Repositories 
  > 
 > 🔑 208 Private Repositories 
  > 
@@ -67,11 +67,11 @@ Linux                    32 hrs              ███████████�
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      82 repos            █████████░░░░░░░░░░░░░░░░   35.50 % 
-Go                       52 repos            ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-Python                   17 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-CSS                      8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-Vue                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+PHP                      82 repos            █████████░░░░░░░░░░░░░░░░   35.34 % 
+Go                       53 repos            ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+Python                   17 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+CSS                      8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Vue                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 ```
 
 
@@ -81,5 +81,5 @@ Vue                      7 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2025 02:44:11 UTC
+ Last Updated on 14/05/2025 03:28:55 UTC
 <!--END_SECTION:waka-->

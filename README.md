@@ -3,13 +3,15 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C661%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C652%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.9 MB Used in GitHub's Storage 
+ > 
+> 🏆 1,783 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -78,5 +80,5 @@ CSS                      8 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2025 15:15:23 UTC
+ Last Updated on 15/06/2025 16:14:23 UTC
 <!--END_SECTION:waka-->

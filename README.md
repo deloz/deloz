@@ -3,15 +3,13 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C849%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C846%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-57.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.9 MB Used in GitHub's Storage 
- > 
-> 🏆 2,063 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -66,9 +64,9 @@ Linux                    19 hrs 21 mins      ██████████░�
 
 ```text
 PHP                      83 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Go                       57 repos            ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+Go                       56 repos            ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
 Python                   20 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-TypeScript               12 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+TypeScript               13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 Vue                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 ```
 
@@ -79,5 +77,5 @@ Vue                      7 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2025 15:15:22 UTC
+ Last Updated on 06/07/2025 16:12:38 UTC
 <!--END_SECTION:waka-->

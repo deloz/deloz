@@ -3,13 +3,15 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C860%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C860%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-57.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.9 MB Used in GitHub's Storage 
+ > 
+> 🏆 2,078 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -77,5 +79,5 @@ Vue                      7 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2025 04:21:53 UTC
+ Last Updated on 10/07/2025 05:18:00 UTC
 <!--END_SECTION:waka-->

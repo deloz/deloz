@@ -3,7 +3,9 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68.47%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C646%20hrs%2017%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68.78%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -20,21 +22,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                17713 commits       █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-🌆 Daytime                43824 commits       ████████████░░░░░░░░░░░░░   46.52 % 
-🌃 Evening                26638 commits       ███████░░░░░░░░░░░░░░░░░░   28.28 % 
-🌙 Night                  6034 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+🌞 Morning                17733 commits       █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+🌆 Daytime                43855 commits       ████████████░░░░░░░░░░░░░   46.50 % 
+🌃 Evening                26680 commits       ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+🌙 Night                  6037 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   15458 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Tuesday                  15052 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Wednesday                14825 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Thursday                 13901 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Friday                   13991 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Saturday                 11396 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Sunday                   9586 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Monday                   15481 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Tuesday                  15060 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Wednesday                14839 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Thursday                 13907 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Friday                   14001 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Saturday                 11404 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Sunday                   9613 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
 ```
 
 
@@ -44,20 +46,20 @@ Sunday                   9586 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     22 hrs 25 mins      ███████░░░░░░░░░░░░░░░░░░   29.25 % 
-TypeScript               21 hrs 26 mins      ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-Other                    7 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Python                   5 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Bash                     5 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Rust                     22 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   30.45 % 
+TypeScript               21 hrs 33 mins      ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+Other                    7 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Python                   5 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Go                       5 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 
 🔥 Editors: 
-VS Code                  76 hrs 17 mins      █████████████████████████   99.51 % 
-Codex CLI                22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+VS Code                  73 hrs 21 mins      █████████████████████████   99.49 % 
+Codex CLI                22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    72 hrs 37 mins      ████████████████████████░   94.72 % 
-Windows                  4 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Linux                    71 hrs 34 mins      ████████████████████████░   97.08 % 
+Windows                  2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -77,5 +79,5 @@ Rust                     4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 18:32:41 UTC
+ Last Updated on 24/07/2026 20:35:27 UTC
 <!--END_SECTION:waka-->

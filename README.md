@@ -19,6 +19,49 @@
  > 
 > 🔑 232 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                18071 commits       █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+🌆 Daytime                44710 commits       ████████████░░░░░░░░░░░░░   46.55 % 
+🌃 Evening                27138 commits       ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+🌙 Night                  6131 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   15806 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Tuesday                  15375 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Wednesday                15042 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Thursday                 14146 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Friday                   14204 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Saturday                 11677 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Sunday                   9800 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               18 hrs 56 mins      ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+Rust                     14 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+Other                    8 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Python                   6 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Bash                     6 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+
+🔥 Editors: 
+VS Code                  64 hrs 24 mins      █████████████████████████   99.42 % 
+Codex CLI                22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+💻 Operating System: 
+Linux                    62 hrs 38 mins      ████████████████████████░   96.67 % 
+Windows                  2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -36,5 +79,5 @@ Rust                     4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 18:06:38 UTC
+ Last Updated on 25/07/2026 19:08:45 UTC
 <!--END_SECTION:waka-->

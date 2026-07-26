@@ -3,7 +3,7 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C649%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C661%20hrs%2011%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69.96%20million%20lines%20of%20code-blue?style=flat)
 
@@ -11,7 +11,7 @@
 
 > 📦 4.2 MB Used in GitHub's Storage 
  > 
-> 🏆 1,058 Contributions in the Year 2026
+> 🏆 1,059 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -46,20 +46,22 @@ Sunday                   9809 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               18 hrs 56 mins      ███████░░░░░░░░░░░░░░░░░░   29.22 % 
-Rust                     14 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-Other                    8 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Python                   6 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Bash                     6 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+TypeScript               13 hrs              █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+Other                    10 hrs 7 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Rust                     8 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Bash                     8 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Go                       7 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
 
 🔥 Editors: 
-VS Code                  64 hrs 24 mins      █████████████████████████   99.42 % 
-Codex CLI                22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+VS Code                  59 hrs 27 mins      ████████████████████████░   96.10 % 
+Codex CLI                1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Claude Code              53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    62 hrs 38 mins      ████████████████████████░   96.67 % 
-Windows                  2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Linux                    57 hrs 28 mins      ███████████████████████░░   92.87 % 
+Windows                  3 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Mac                      1 hr 13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -79,5 +81,5 @@ Rust                     4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 17:07:12 UTC
+ Last Updated on 26/07/2026 18:10:33 UTC
 <!--END_SECTION:waka-->

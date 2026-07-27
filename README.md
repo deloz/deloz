@@ -3,9 +3,9 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C967%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C977%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C378%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C388%20hrs%2045%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70.30%20million%20lines%20of%20code-blue?style=flat)
 
@@ -48,47 +48,47 @@ Sunday                   10000 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               13 hrs              █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-Other                    10 hrs 7 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Rust                     8 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Bash                     8 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Go                       7 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Bash                     12 hrs              █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Go                       11 hrs 30 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Other                    10 hrs 6 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Rust                     8 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+TypeScript               8 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
 
 🔥 Editors: 
-VS Code                  59 hrs 27 mins      ████████████████████████░   96.10 % 
-Codex CLI                1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-Claude Code              53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+VS Code                  62 hrs 32 mins      ████████████████████████░   96.15 % 
+Codex CLI                1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Claude Code              56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    57 hrs 28 mins      ███████████████████████░░   92.87 % 
-Windows                  3 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Mac                      1 hr 13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Linux                    52 hrs 10 mins      ████████████████████░░░░░   80.21 % 
+Mac                      11 hrs 1 min        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Windows                  1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 61 hrs 47 mins (99.85%)
+⏱ AI Coding Time: 64 hrs 57 mins (99.85%)
 
-✍️ 91,576 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 97,114 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,534,970,831 Input Tokens, 8,801,447 Output Tokens
+🔤 2,568,184,952 Input Tokens, 9,020,444 Output Tokens
 
-💵 $12276.36 Estimated AI Cost This Week
+💵 $12450.87 Estimated AI Cost This Week
 
-🧠 113 AI Sessions, 659 AI Prompts
+🧠 121 AI Sessions, 659 AI Prompts
 
-GPT                      92,275 lines        ████████████████████████░   96.82 % 
-Opus                     3,029 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+GPT                      98,002 lines        ████████████████████████░   97.00 % 
+Opus                     3,030 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 Exec-Wakatime            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,325 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 1,341 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -109,5 +109,5 @@ Rust                     4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 17:51:38 UTC
+ Last Updated on 27/07/2026 19:32:38 UTC
 <!--END_SECTION:waka-->

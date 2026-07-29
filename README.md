@@ -94,11 +94,11 @@ Grok                     0 lines             ░░░░░░░░░░░�
 **I Mostly Code in PHP** 
 
 ```text
-Go                       60 repos            ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
-Python                   23 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-TypeScript               14 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Vue                      8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Rust                     4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Go                       60 repos            ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+Python                   23 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+TypeScript               14 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Vue                      9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Rust                     4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 
 
@@ -108,5 +108,5 @@ Rust                     4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 01:44:23 UTC
+ Last Updated on 29/07/2026 05:18:37 UTC
 <!--END_SECTION:waka-->

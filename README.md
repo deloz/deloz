@@ -3,9 +3,9 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C046%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C059%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C478%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C493%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69.89%20million%20lines%20of%20code-blue?style=flat)
 
@@ -48,48 +48,48 @@ Sunday                   9981 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       30 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   29.30 % 
-Bash                     18 hrs 10 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Other                    16 hrs 10 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-TypeScript               14 hrs 52 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Python                   5 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Go                       31 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   28.78 % 
+Other                    17 hrs 48 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Bash                     16 hrs 59 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+TypeScript               12 hrs 34 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+JavaScript               5 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 🔥 Editors: 
-VS Code                  102 hrs 13 mins     ████████████████████████░   96.91 % 
-Codex CLI                2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Claude Code              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-Unknown Wakatime         25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+VS Code                  105 hrs 26 mins     ████████████████████████░   97.20 % 
+Codex CLI                2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Unknown Wakatime         25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Claude Code              24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Mac                      49 hrs 46 mins      ████████████░░░░░░░░░░░░░   47.19 % 
-Linux                    35 hrs 14 mins      ████████░░░░░░░░░░░░░░░░░   33.41 % 
-Windows                  20 hrs 27 mins      █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Mac                      43 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   40.15 % 
+Linux                    35 hrs 8 mins       ████████░░░░░░░░░░░░░░░░░   32.39 % 
+Windows                  29 hrs 47 mins      ███████░░░░░░░░░░░░░░░░░░   27.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 105 hrs 28 mins (100.0%)
+⏱ AI Coding Time: 108 hrs 12 mins (99.76%)
 
-✍️ 78,722 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 71,520 lines written by AI, 2 lines written by hand (100.0% AI-written)
 
-🔤 3,963,503,411 Input Tokens, 14,915,104 Output Tokens
+🔤 4,162,430,550 Input Tokens, 15,663,319 Output Tokens
 
-💵 $20123.45 Estimated AI Cost This Week
+💵 $21141.58 Estimated AI Cost This Week
 
-🧠 213 AI Sessions, 1090 AI Prompts
+🧠 212 AI Sessions, 1114 AI Prompts
 
-GPT                      82,431 lines        █████████████████████████   98.95 % 
-Opus                     876 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+GPT                      75,198 lines        █████████████████████████   98.87 % 
+Opus                     858 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Unknown-Wakatime         0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,051 characters per prompt
+📄 Detailed Prompter — average 1,008 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -109,5 +109,5 @@ Rust                     4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2026 16:00:32 UTC
+ Last Updated on 04/08/2026 02:16:45 UTC
 <!--END_SECTION:waka-->

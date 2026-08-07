@@ -48,47 +48,43 @@ Sunday                   9568 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    23 hrs 33 mins      ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-Go                       16 hrs 7 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Java                     14 hrs 15 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-TypeScript               9 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Bash                     8 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Other                    20 hrs 33 mins      ███████░░░░░░░░░░░░░░░░░░   26.91 % 
+Go                       14 hrs 21 mins      █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Java                     14 hrs 4 mins       █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+Bash                     6 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+TypeScript               4 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 🔥 Editors: 
-VS Code                  90 hrs 50 mins      ████████████████████████░   97.48 % 
-Codex CLI                2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Unknown Wakatime         18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+VS Code                  74 hrs 36 mins      ████████████████████████░   97.65 % 
+Codex CLI                1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 💻 Operating System: 
-Windows                  51 hrs 27 mins      ██████████████░░░░░░░░░░░   55.21 % 
-Linux                    25 hrs 7 mins       ███████░░░░░░░░░░░░░░░░░░   26.95 % 
-Mac                      16 hrs 37 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Windows                  45 hrs 58 mins      ███████████████░░░░░░░░░░   60.17 % 
+Linux                    18 hrs 41 mins      ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+Mac                      11 hrs 44 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 92 hrs 47 mins (99.57%)
+⏱ AI Coding Time: 75 hrs 59 mins (99.47%)
 
-✍️ 46,099 lines written by AI, 5 lines written by hand (99.99% AI-written)
+✍️ 37,499 lines written by AI, 5 lines written by hand (99.99% AI-written)
 
-🔤 4,131,607,594 Input Tokens, 13,899,309 Output Tokens
+🔤 3,431,531,079 Input Tokens, 11,260,027 Output Tokens
 
-💵 $21010.64 Estimated AI Cost This Week
+💵 $17459.41 Estimated AI Cost This Week
 
-🧠 186 AI Sessions, 855 AI Prompts
+🧠 135 AI Sessions, 576 AI Prompts
 
-GPT                      49,977 lines        █████████████████████████   100.00 % 
-Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Unknown-Wakatime         0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      40,485 lines        █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📄 Detailed Prompter — average 1,269 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+📄 Detailed Prompter — average 1,412 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -108,5 +104,5 @@ Rust                     4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 15:28:26 UTC
+ Last Updated on 07/08/2026 02:23:26 UTC
 <!--END_SECTION:waka-->

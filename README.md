@@ -3,9 +3,9 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C127%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C132%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C580%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C587%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-72.47%20million%20lines%20of%20code-blue?style=flat)
 
@@ -48,43 +48,43 @@ Sunday                   9818 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               36 hrs 48 mins      ████████████░░░░░░░░░░░░░   49.88 % 
-Other                    9 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Go                       6 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Rust                     6 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Bash                     3 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+TypeScript               31 hrs 25 mins      ████████████░░░░░░░░░░░░░   46.17 % 
+Other                    11 hrs 1 min        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Rust                     7 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Go                       3 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+JSON                     2 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 
 🔥 Editors: 
-Codex Vscode             69 hrs 52 mins      ████████████████████████░   94.70 % 
-VS Code                  3 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Codex CLI                29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-Notepad++                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Codex Vscode             64 hrs 18 mins      ████████████████████████░   94.47 % 
+VS Code                  3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Codex CLI                39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Notepad++                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  41 hrs 52 mins      ██████████████░░░░░░░░░░░   56.76 % 
-Linux                    31 hrs 53 mins      ███████████░░░░░░░░░░░░░░   43.24 % 
+Windows                  38 hrs 31 mins      ██████████████░░░░░░░░░░░   56.58 % 
+Linux                    29 hrs 33 mins      ███████████░░░░░░░░░░░░░░   43.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 73 hrs 30 mins (99.63%)
+⏱ AI Coding Time: 67 hrs 48 mins (99.61%)
 
-✍️ 38,808 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 31,848 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 232,369,687 Input Tokens, 7,361,252 Output Tokens
+🔤 197,955,852 Input Tokens, 6,115,642 Output Tokens
 
-💵 $2475.48 Estimated AI Cost This Week
+💵 $2169.30 Estimated AI Cost This Week
 
-🧠 173 AI Sessions, 590 AI Prompts
+🧠 160 AI Sessions, 534 AI Prompts
 
-GPT                      42,588 lines        █████████████████████████   99.93 % 
-Codex-Vscode             30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+GPT                      34,816 lines        █████████████████████████   99.91 % 
+Codex-Vscode             30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 Codex-Exec               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,638 characters per prompt
+📚 Verbose Prompter — average 2,324 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -106,5 +106,5 @@ Rust                     5 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 16:45:40 UTC
+ Last Updated on 20/08/2026 17:39:57 UTC
 <!--END_SECTION:waka-->

@@ -3,9 +3,9 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C132%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C136%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C587%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C592%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-72.47%20million%20lines%20of%20code-blue?style=flat)
 
@@ -48,43 +48,43 @@ Sunday                   9818 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               31 hrs 25 mins      ████████████░░░░░░░░░░░░░   46.17 % 
-Other                    11 hrs 1 min        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Rust                     7 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Go                       3 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-JSON                     2 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+TypeScript               18 hrs 25 mins      ████████░░░░░░░░░░░░░░░░░   31.23 % 
+Other                    11 hrs 48 mins      █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+Rust                     9 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Go                       4 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+JSON                     2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 
 🔥 Editors: 
-Codex Vscode             64 hrs 18 mins      ████████████████████████░   94.47 % 
-VS Code                  3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Codex CLI                39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Codex Vscode             56 hrs 6 mins       ████████████████████████░   95.06 % 
+VS Code                  2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Codex CLI                53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 Notepad++                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  38 hrs 31 mins      ██████████████░░░░░░░░░░░   56.58 % 
-Linux                    29 hrs 33 mins      ███████████░░░░░░░░░░░░░░   43.42 % 
+Linux                    34 hrs 53 mins      ███████████████░░░░░░░░░░   59.12 % 
+Windows                  24 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   40.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 67 hrs 48 mins (99.61%)
+⏱ AI Coding Time: 58 hrs 46 mins (99.57%)
 
-✍️ 31,848 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 27,182 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 197,955,852 Input Tokens, 6,115,642 Output Tokens
+🔤 143,127,117 Input Tokens, 4,195,499 Output Tokens
 
-💵 $2169.30 Estimated AI Cost This Week
+💵 $1460.74 Estimated AI Cost This Week
 
-🧠 160 AI Sessions, 534 AI Prompts
+🧠 128 AI Sessions, 410 AI Prompts
 
-GPT                      34,816 lines        █████████████████████████   99.91 % 
-Codex-Vscode             30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+GPT                      28,353 lines        █████████████████████████   99.89 % 
+Codex-Vscode             30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 Codex-Exec               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,324 characters per prompt
+📚 Verbose Prompter — average 1,681 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -106,5 +106,5 @@ Rust                     5 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 16:39:20 UTC
+ Last Updated on 21/08/2026 17:44:32 UTC
 <!--END_SECTION:waka-->

@@ -48,43 +48,42 @@ Sunday                   9818 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               12 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-Other                    9 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Rust                     8 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Go                       3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-JSON                     2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+TypeScript               11 hrs 20 mins      ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+Other                    7 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Rust                     7 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Go                       3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+JSON                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 
 🔥 Editors: 
-Codex Vscode             44 hrs 59 mins      ████████████████████████░   95.23 % 
-VS Code                  1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Codex CLI                49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Notepad++                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Codex Vscode             36 hrs 25 mins      ████████████████████████░   94.38 % 
+VS Code                  1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Codex CLI                46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Notepad++                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Linux                    28 hrs 30 mins      ███████████████░░░░░░░░░░   60.33 % 
-Windows                  18 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   39.67 % 
+Linux                    25 hrs 37 mins      █████████████████░░░░░░░░   66.40 % 
+Windows                  12 hrs 58 mins      ████████░░░░░░░░░░░░░░░░░   33.60 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 hrs 59 mins (99.47%)
+⏱ AI Coding Time: 38 hrs 20 mins (99.35%)
 
-✍️ 20,341 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 16,164 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 87,558,974 Input Tokens, 3,004,701 Output Tokens
+🔤 69,975,374 Input Tokens, 2,342,219 Output Tokens
 
-💵 $980.76 Estimated AI Cost This Week
+💵 $782.22 Estimated AI Cost This Week
 
-🧠 92 AI Sessions, 266 AI Prompts
+🧠 72 AI Sessions, 197 AI Prompts
 
-GPT                      22,013 lines        █████████████████████████   99.98 % 
+GPT                      16,903 lines        █████████████████████████   99.98 % 
 Codex-Vscode             4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Codex-Exec               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,382 characters per prompt
+📄 Detailed Prompter — average 1,319 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -106,5 +105,5 @@ Rust                     5 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 16:35:15 UTC
+ Last Updated on 23/08/2026 17:33:48 UTC
 <!--END_SECTION:waka-->

@@ -48,40 +48,19 @@ Sunday                   9818 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-Other                    1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-Python                   58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Go                       46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Other                    26 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             5 hrs 13 mins       ████████████████████████░   94.98 % 
-Codex CLI                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    5 hrs 30 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 30 mins (100.0%)
-
-✍️ 1,469 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 12,325,158 Input Tokens, 335,548 Output Tokens
-
-💵 $122.60 Estimated AI Cost This Week
-
-🧠 13 AI Sessions, 28 AI Prompts
-
-GPT                      1,479 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,235 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -101,5 +80,5 @@ Rust                     5 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 07:53:07 UTC
+ Last Updated on 28/08/2026 20:05:36 UTC
 <!--END_SECTION:waka-->

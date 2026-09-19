@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C136%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C594%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C594%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.93%20million%20lines%20of%20code-blue?style=flat)
 
@@ -48,34 +48,35 @@ Sunday                   10234 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 30 mins        █████████████████████████   100.00 % 
+Other                    1 hr 59 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             59 mins             ████████████████░░░░░░░░░   65.18 % 
-Codex CLI                31 mins             █████████░░░░░░░░░░░░░░░░   34.82 % 
+Codex Vscode             1 hr 25 mins        ██████████████████░░░░░░░   71.32 % 
+Codex CLI                34 mins             ███████░░░░░░░░░░░░░░░░░░   28.68 % 
 
 💻 Operating System: 
-Linux                    1 hr 30 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 30 mins (100.0%)
+⏱ AI Coding Time: 1 hr 59 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 371,285 Input Tokens, 63,772 Output Tokens
+🔤 543,679 Input Tokens, 84,991 Output Tokens
 
-💵 $4.58 Estimated AI Cost This Week
+💵 $7.28 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 19 AI Prompts
+🧠 9 AI Sessions, 29 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 707 characters per prompt
+📄 Detailed Prompter — average 642 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -97,5 +98,5 @@ Rust                     5 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 17:59:14 UTC
+ Last Updated on 19/09/2026 20:01:55 UTC
 <!--END_SECTION:waka-->

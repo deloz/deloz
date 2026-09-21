@@ -3,9 +3,9 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C140%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C145%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C601%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C609%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-77.58%20million%20lines%20of%20code-blue?style=flat)
 
@@ -48,43 +48,43 @@ Sunday                   10365 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 29 mins       █████████████░░░░░░░░░░░░   52.68 % 
-Go                       1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Bash                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-TypeScript               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Vue                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Other                    8 hrs 2 mins        ████████████░░░░░░░░░░░░░   46.76 % 
+TypeScript               2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Go                       2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+YAML                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Bash                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
 
 🔥 Editors: 
-Codex Vscode             6 hrs 28 mins       ███████████████████░░░░░░   76.00 % 
-Codex CLI                1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-VS Code                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Codex Vscode             14 hrs 53 mins      ██████████████████████░░░   86.61 % 
+Codex CLI                1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+VS Code                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 💻 Operating System: 
-Linux                    7 hrs 4 mins        █████████████████████░░░░   83.12 % 
-Windows                  1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Linux                    12 hrs 34 mins      ██████████████████░░░░░░░   73.17 % 
+Windows                  4 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.83 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 19 mins (97.67%)
+⏱ AI Coding Time: 16 hrs 59 mins (98.85%)
 
-✍️ 837 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,874 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,895,322 Input Tokens, 338,345 Output Tokens
+🔤 33,278,794 Input Tokens, 1,282,005 Output Tokens
 
-💵 $57.12 Estimated AI Cost This Week
+💵 $314.24 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 74 AI Prompts
+🧠 37 AI Sessions, 170 AI Prompts
 
-GPT                      865 lines           █████████████████████████   100.00 % 
+GPT                      2,066 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,154 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.37% of changed lines were hand-edited
+📚 Verbose Prompter — average 2,218 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -104,5 +104,5 @@ Rust                     5 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 15:53:19 UTC
+ Last Updated on 21/09/2026 20:34:35 UTC
 <!--END_SECTION:waka-->

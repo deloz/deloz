@@ -21,6 +21,72 @@
  > 
 > 🔑 220 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                18350 commits       █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+🌆 Daytime                44000 commits       ████████████░░░░░░░░░░░░░   46.05 % 
+🌃 Evening                26925 commits       ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+🌙 Night                  6265 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   15950 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Tuesday                  14990 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Wednesday                14799 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Thursday                 14016 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Friday                   14009 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Saturday                 11432 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Sunday                   10344 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    15 hrs 19 mins      ██████████░░░░░░░░░░░░░░░   41.61 % 
+Go                       8 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+Python                   2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+TypeScript               2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Java                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+
+🔥 Editors: 
+Codex Vscode             33 hrs 52 mins      ███████████████████████░░   91.95 % 
+Codex CLI                2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+VS Code                  42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+
+💻 Operating System: 
+Linux                    24 hrs 24 mins      █████████████████░░░░░░░░   66.24 % 
+Windows                  12 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   33.76 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 36 hrs 38 mins (99.47%)
+
+✍️ 4,902 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 66,547,334 Input Tokens, 3,012,088 Output Tokens
+
+💵 $674.54 Estimated AI Cost This Week
+
+🧠 80 AI Sessions, 301 AI Prompts
+
+GPT                      5,630 lines         █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,850 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.21% of changed lines were hand-edited
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -38,5 +104,5 @@ Rust                     5 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 20:02:31 UTC
+ Last Updated on 24/09/2026 23:18:33 UTC
 <!--END_SECTION:waka-->

@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C173%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C649%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C651%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.84%20million%20lines%20of%20code-blue?style=flat)
 
@@ -48,43 +48,43 @@ Sunday                   11047 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    18 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   32.82 % 
-Python                   15 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-Go                       8 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Java                     5 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-TypeScript               2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Other                    25 hrs 4 mins       ███████████░░░░░░░░░░░░░░   42.23 % 
+Python                   15 hrs 19 mins      ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+Go                       7 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Java                     5 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+TypeScript               1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🔥 Editors: 
-Codex Vscode             52 hrs 25 mins      ███████████████████████░░   92.50 % 
-Codex CLI                2 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-VS Code                  1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Codex Vscode             56 hrs 51 mins      ████████████████████████░   95.73 % 
+Codex CLI                1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+VS Code                  59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 💻 Operating System: 
-Windows                  32 hrs 55 mins      ███████████████░░░░░░░░░░   58.10 % 
-Linux                    23 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   41.90 % 
+Windows                  31 hrs 26 mins      █████████████░░░░░░░░░░░░   52.93 % 
+Linux                    27 hrs 57 mins      ████████████░░░░░░░░░░░░░   47.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 hrs 29 mins (99.66%)
+⏱ AI Coding Time: 59 hrs 21 mins (99.95%)
 
-✍️ 5,684 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,046 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 76,090,171 Input Tokens, 3,747,668 Output Tokens
+🔤 77,959,491 Input Tokens, 4,285,756 Output Tokens
 
-💵 $1081.24 Estimated AI Cost This Week
+💵 $1296.24 Estimated AI Cost This Week
 
-🧠 79 AI Sessions, 331 AI Prompts
+🧠 56 AI Sessions, 391 AI Prompts
 
-GPT                      6,505 lines         █████████████████████████   100.00 % 
+GPT                      8,231 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,674 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.18% of changed lines were hand-edited
+📄 Detailed Prompter — average 925 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -104,5 +104,5 @@ Rust                     5 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 19:10:26 UTC
+ Last Updated on 27/09/2026 22:08:32 UTC
 <!--END_SECTION:waka-->

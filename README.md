@@ -90,10 +90,10 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 **I Mostly Code in PHP** 
 
 ```text
-Go                       56 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Python                   23 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-TypeScript               12 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Vue                      9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+JavaScript               38 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Python                   23 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+TypeScript               12 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Vue                      9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 Rust                     5 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 
@@ -104,5 +104,5 @@ Rust                     5 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 23:19:57 UTC
+ Last Updated on 30/09/2026 02:08:43 UTC
 <!--END_SECTION:waka-->

@@ -3,9 +3,9 @@
 ## **What languages you use and how much do you code?**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C213%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C220%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C711%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C721%20hrs%2053%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-97.96%20million%20lines%20of%20code-blue?style=flat)
 
@@ -48,46 +48,46 @@ Sunday                   11597 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   38.91 % 
-TypeScript               6 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Vue                      5 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Python                   2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Bash                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Other                    15 hrs 29 mins      █████████░░░░░░░░░░░░░░░░   37.20 % 
+TypeScript               6 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Vue                      6 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Python                   3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Go                       2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 🔥 Editors: 
-Codex Vscode             25 hrs 14 mins      ████████████████████░░░░░   80.29 % 
-Codex CLI                4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-VS Code                  1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Codex Vscode             25 hrs 14 mins      ███████████████░░░░░░░░░░   60.63 % 
+Codex CLI                14 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   35.22 % 
+VS Code                  1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  31 hrs 19 mins      █████████████████████████   99.67 % 
-Linux                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Windows                  37 hrs 23 mins      ██████████████████████░░░   89.78 % 
+Linux                    4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 13 mins (99.34%)
+⏱ AI Coding Time: 41 hrs 25 mins (99.5%)
 
-✍️ 4,655 lines written by AI, 19 lines written by hand (99.59% AI-written)
+✍️ 8,215 lines written by AI, 19 lines written by hand (99.77% AI-written)
 
-🔤 44,752,991 Input Tokens, 2,682,353 Output Tokens
+🔤 73,030,204 Input Tokens, 4,565,894 Output Tokens
 
-💵 $673.16 Estimated AI Cost This Week
+💵 $1708.34 Estimated AI Cost This Week
 
-🧠 63 AI Sessions, 166 AI Prompts
+🧠 90 AI Sessions, 252 AI Prompts
 
-GPT                      3,297 lines         █████████████████░░░░░░░░   68.15 % 
-Codex-Vscode             1,541 lines         ████████░░░░░░░░░░░░░░░░░   31.85 % 
+Codex-Vscode             5,331 lines         ███████████████░░░░░░░░░░   61.79 % 
+GPT                      3,297 lines         ██████████░░░░░░░░░░░░░░░   38.21 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.59% of written lines came from AI
-📄 Detailed Prompter — average 1,092 characters per prompt
+🤖 AI-Driven — 99.77% of written lines came from AI
+📄 Detailed Prompter — average 1,032 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.47% of changed lines were hand-edited
+🚀 High AI Trust — 0.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -107,5 +107,5 @@ Rust                     5 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/deloz/deloz/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 18:08:16 UTC
+ Last Updated on 14/10/2026 21:34:46 UTC
 <!--END_SECTION:waka-->
